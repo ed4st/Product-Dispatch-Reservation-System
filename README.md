@@ -40,10 +40,12 @@ ayudo a configurar su repositorio local al remoto y viceversa.
 
 - No borrar estos comentarios.
 
+- Para la segunda entrega, se deben corregir los errores de la primera entrega. 
+
 Julian,
 
 
 
 
 
-Fecha de entrega proyecto: 29 de marzo del 2020
+Fecha de entrega proyecto: 30 de abril del 2020
