@@ -1,4 +1,4 @@
-# Proyecto-POO
+# Product Dispatch Reservation System
 Buenas tardes a todos y bienvenidos a este proyecto.
 
 Tema: Sistema de Reservas de una empresa de Despacho de Productos
